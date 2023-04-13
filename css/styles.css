@@ -1,0 +1,15 @@
+body{
+    background-color: #a5cccc;
+}
+h2{
+    color:red;
+}
+.heading{
+    color:blue;
+}
+hr{
+    border-color:yellow;
+}
+#femight:hover{
+    color:white;
+}
